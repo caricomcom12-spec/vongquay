@@ -1,0 +1,13 @@
+{
+  "name": "vongquay-mayman",
+  "version": "1.0.0",
+  "description": "Website Vong Quay May Man Doc Lap",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0"
+  }
+}
